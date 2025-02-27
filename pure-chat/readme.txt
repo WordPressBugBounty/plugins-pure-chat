@@ -3,8 +3,8 @@ Contributors: pure-chat
 Donate link: https://www.purechat.com
 Tags: live chat, Chat Widget, purechat, WordPress chat, Visitor tracking
 Requires at least: 3.0.1
-Tested up to: 5.8
-Stable tag: 2.31
+Tested up to: 6.7
+Stable tag: 2.41
 Requires PHP: 5.3.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -67,6 +67,13 @@ Yes, deactivating the Pure Chat plugin will stop the widget from showing up, but
 3. Native iOS and Android apps.
 
 == Changelog ==
+
+= 2.41 =
+* Security updates with escapes 
+
+= 2.4 =
+* Added event origin check
+* Added text sanitization
 
 = 2.31 =
 * Security Enhancements and bug fixes for enhancements.
